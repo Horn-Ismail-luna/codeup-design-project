@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Anton&display=swap');
+
+/*Defult for xs screen */
+
+:root {
+    --small-font: "abel" , sans-serif;
+    --big-font: "Anton" , sans-serif;
+    --red: #ff0000
+
+}
